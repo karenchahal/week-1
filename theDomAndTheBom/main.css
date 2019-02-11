@@ -1,0 +1,25 @@
+#outer {
+  /* margin: 20% auto; */
+  background-color: blue;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#inner {
+  background-color: orange;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#btn {
+  font-size: 20px;
+  height: 5 px;
+  width: 5 px;
+}
